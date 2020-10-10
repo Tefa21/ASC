@@ -27,3 +27,4 @@ C:\Users\TheVolts\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.csproj.CoreCompi
 C:\Users\TheVolts\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.csproj.CopyComplete
 C:\Users\TheVolts\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.dll
 C:\Users\TheVolts\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.pdb
+C:\Users\TheVolts\ASC\ModuloHRM\Capa_Vista\obj\Debug\Capa_Vista.Vista_Reclutamiento.frmEmpleado.resources
